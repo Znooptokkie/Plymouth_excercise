@@ -3,7 +3,7 @@
 
 ## Setup
 
-**There are 2 components to program:**
+There are 2 components to program:
 
 1. Gamepad
 
@@ -19,8 +19,10 @@ This is just a starting point to give you a little help. Feel free to customize 
 
 ## Documentation
 
-Documentation for Micro:bit editor:
+```bash
+https://microbit-micropython.readthedocs.io/en/v2-docs/tutorials/introduction.html 
+```
 
-    ```bash
-    https://microbit-micropython.readthedocs.io/en/v2-docs/tutorials/introduction.html 
-    ```
+```bash
+https://leetcode.com/discuss/post/2122306/Python-Cheat-Sheet-for-Leetcode/
+```
